@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Class-Path: spring-expression-4.3.18.BUILD-20180608.103601-6.jar sprin
+ g-data-commons-1.13.12.RELEASE.jar spring-tx-4.3.18.BUILD-20180604.13
+ 2933-5.jar spring-beans-4.3.18.BUILD-20180608.103601-6.jar snakeyaml-
+ 1.17.jar spring-boot-autoconfigure-1.5.14.BUILD-20180608.145026-32.ja
+ r jul-to-slf4j-1.7.25.jar spring-context-support-4.3.18.BUILD-2018060
+ 4.132933-5.jar spring-core-4.3.18.BUILD-20180608.103601-6.jar logback
+ -core-1.1.11.jar spring-data-redis-1.8.12.RELEASE.jar jedis-2.9.0.jar
+  spring-boot-starter-data-redis-1.5.14.BUILD-20180606.001431-27.jar s
+ lf4j-api-1.7.25.jar tomcat-jdbc-8.5.31.jar spring-aop-4.3.18.BUILD-20
+ 180608.103601-6.jar spring-jdbc-4.3.18.BUILD-20180604.132933-5.jar sp
+ ring-boot-1.5.14.BUILD-20180608.145026-32.jar spring-context-4.3.18.B
+ UILD-20180608.103601-6.jar spring-oxm-4.3.18.BUILD-20180604.132933-5.
+ jar spring-boot-starter-1.5.14.BUILD-20180608.145026-32.jar log4j-ove
+ r-slf4j-1.7.25.jar spring-boot-starter-jdbc-1.5.14.BUILD-20180606.001
+ 431-27.jar jcl-over-slf4j-1.7.25.jar spring-boot-starter-logging-1.5.
+ 14.BUILD-20180608.145026-32.jar spring-data-keyvalue-1.2.12.RELEASE.j
+ ar tomcat-juli-8.5.31.jar logback-classic-1.1.11.jar mysql-connector-
+ java-5.1.21.jar commons-pool2-2.4.3.jar
+Main-Class: com.ad.springBoot.Application
+
