@@ -18,6 +18,7 @@
         <module name="21springSecurity" />
         <module name="22mailSender" />
         <module name="23ehCache" />
+        <module name="24Redis" />
         <module name="8moreSourceDB" />
         <module name="bootStudy" />
         <module name="springBoot (7)" />
@@ -36,6 +37,7 @@
       <module name="21springSecurity" target="1.8" />
       <module name="22mailSender" target="1.8" />
       <module name="23ehCache" target="1.8" />
+      <module name="24Redis" target="1.8" />
       <module name="8moreSourceDB" target="1.8" />
       <module name="bootStudy" target="1.8" />
       <module name="Chapter2-1-1 (2)" target="1.8" />
