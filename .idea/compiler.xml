@@ -6,11 +6,40 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springBoot" />
+        <module name="10redis" />
+        <module name="13properties" />
+        <module name="14scheduled" />
+        <module name="15Async" />
+        <module name="16log4j" />
+        <module name="17log4jMore" />
+        <module name="18aop" />
+        <module name="19httpInMongodb" />
+        <module name="20transaction" />
+        <module name="21springSecurity" />
+        <module name="22mailSender" />
+        <module name="23ehCache" />
+        <module name="8moreSourceDB" />
+        <module name="bootStudy" />
+        <module name="springBoot (7)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="springBoot" target="1.8" />
+      <module name="10redis" target="1.8" />
+      <module name="13properties" target="1.8" />
+      <module name="14scheduled" target="1.8" />
+      <module name="15Async" target="1.8" />
+      <module name="16log4j" target="1.8" />
+      <module name="17log4jMore" target="1.8" />
+      <module name="18aop" target="1.8" />
+      <module name="19httpInMongodb" target="1.8" />
+      <module name="20transaction" target="1.8" />
+      <module name="21springSecurity" target="1.8" />
+      <module name="22mailSender" target="1.8" />
+      <module name="23ehCache" target="1.8" />
+      <module name="8moreSourceDB" target="1.8" />
+      <module name="bootStudy" target="1.8" />
+      <module name="Chapter2-1-1 (2)" target="1.8" />
+      <module name="springBoot (7)" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
