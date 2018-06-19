@@ -21,6 +21,7 @@
         <module name="24Redis" />
         <module name="8moreSourceDB" />
         <module name="bootStudy" />
+        <module name="Chapter1" />
         <module name="springBoot (7)" />
       </profile>
     </annotationProcessing>
@@ -40,6 +41,7 @@
       <module name="24Redis" target="1.8" />
       <module name="8moreSourceDB" target="1.8" />
       <module name="bootStudy" target="1.8" />
+      <module name="Chapter1" target="1.8" />
       <module name="Chapter2-1-1 (2)" target="1.8" />
       <module name="springBoot (7)" target="1.8" />
     </bytecodeTargetLevel>
