@@ -14,4 +14,7 @@ public interface UserRepository extends JpaRepository<User, Long> {
     @Cacheable(key = "#p0", condition = "#p0.length() < 10")
     User findByName(String name);
 
+    @CachePut(key = "#p0.name")
+    @Override
+    User save(User user);
 }
