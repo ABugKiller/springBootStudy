@@ -18,7 +18,12 @@
         <module name="21springSecurity" />
         <module name="22mailSender" />
         <module name="23ehCache" />
-        <module name="24Redis" />
+        <module name="24redis" />
+        <module name="25mybatis" />
+        <module name="26mybatisConfig" />
+        <module name="27rabbitMQ" />
+        <module name="28springStateMachine" />
+        <module name="29actuator" />
         <module name="8moreSourceDB" />
         <module name="bootStudy" />
         <module name="Chapter1" />
@@ -38,7 +43,12 @@
       <module name="21springSecurity" target="1.8" />
       <module name="22mailSender" target="1.8" />
       <module name="23ehCache" target="1.8" />
-      <module name="24Redis" target="1.8" />
+      <module name="24redis" target="1.8" />
+      <module name="25mybatis" target="1.8" />
+      <module name="26mybatisConfig" target="1.8" />
+      <module name="27rabbitMQ" target="1.8" />
+      <module name="28springStateMachine" target="1.8" />
+      <module name="29actuator" target="1.8" />
       <module name="8moreSourceDB" target="1.8" />
       <module name="bootStudy" target="1.8" />
       <module name="Chapter1" target="1.8" />

@@ -15,6 +15,10 @@
     <file url="file://$PROJECT_DIR$/23ehCache" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/24Redis" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/25mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/26mybatisConfig" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/27rabbitMQ" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/28springStateMachine" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/29actuator" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/8moreSourceDB" charset="UTF-8" />
   </component>
 </project>
