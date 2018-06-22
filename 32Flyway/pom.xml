@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.didispace</groupId>
-	<artifactId>Chapter1</artifactId>
+	<artifactId>Chapter3-2-1</artifactId>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
-	<name>Chapter1</name>
-	<description>The first Spring Boot project</description>
+	<name>Chapter3-2-1</name>
+	<description>Spring Boot with JDBCTemplate</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -36,13 +36,20 @@
 		</dependency>
 
 		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-web</artifactId>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+			<version>5.1.21</version>
 		</dependency>
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-actuator</artifactId>
+			<artifactId>spring-boot-starter-jdbc</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>org.flywaydb</groupId>
+			<artifactId>flyway-core</artifactId>
+			<version>5.0.3</version>
 		</dependency>
 
 	</dependencies>
@@ -52,22 +59,6 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
-			</plugin>
-
-			<plugin>
-				<groupId>pl.project13.maven</groupId>
-				<artifactId>git-commit-id-plugin</artifactId>
-				<version>2.1.15</version>
-				<executions>
-					<execution>
-						<goals>
-							<goal>revision</goal>
-						</goals>
-					</execution>
-				</executions>
-				<configuration>
-					<dotGitDirectory>${project.basedir}/.git</dotGitDirectory>
-				</configuration>
 			</plugin>
 		</plugins>
 	</build>
